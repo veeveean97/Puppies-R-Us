@@ -1,0 +1,13 @@
+h1 {
+color: rgb(243, 151, 39);
+}
+
+img{
+    width: 20%;
+    transition: 1s;
+}
+
+img:hover{
+    width:25%;
+}
+a{display: block;}
